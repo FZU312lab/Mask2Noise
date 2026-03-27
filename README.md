@@ -4,14 +4,12 @@
 
 **Mask2Noise** is a lightweight explicit perception framework designed for low-dose CT image denoising. It utilizes learnable latent queries to achieve the progressive and differentiated learning of complex noise components, thereby establishing an optimal balance between structural fidelity and computational efficiency.
 
-
-
 <img title="" src="./img/framework.png" alt="overview">
 
-Fig1. Framework Structure
+<p align="center"> Framework Structure </p>
 
 ## Evolution of Query-Driven Explicit Perception
 
 <img title="" src="./img/attmap.png" alt="evolution">
 
-Visualization of the progressive cross-attention map evolution and magnified local regions of interest across the cascaded NAM blocks.
+<p align="center"> Visualization of the progressive cross-attention map evolution and magnified local regions of interest across the cascaded NAM blocks.</p>
