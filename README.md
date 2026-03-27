@@ -14,4 +14,4 @@
 
 <p align="center"> Visualization of the progressive cross-attention map evolution and magnified local regions of interest across the cascaded NAM blocks.</p>
 
-We are organizing the training scripts and datasets. The complete codebase will be released here very soon.
+Code is currently under final preparation.
